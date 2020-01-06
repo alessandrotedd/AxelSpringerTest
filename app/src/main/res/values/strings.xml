@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Axel Springer Test</string>
+    <string name="buy_subscription">Buy subscription</string>
+    <string name="noConnectionErrorMessage">Connection error: check your network connection and try again</string>
+    <string name="retry">Retry</string>
+</resources>
